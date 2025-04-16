@@ -27,7 +27,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'jobseekers',
-    'employers'
+    'employers',
+    'jobpostings'
 ]
 
 

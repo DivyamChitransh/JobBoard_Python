@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SECRET_KEY = 'django-insecure-ry-q187a@*c%$ze%7c%)(f-3#%)^w0srq&@7(+f)husyvzq8l3'
+SECRET_KEY = '12345678'
 DEBUG = True
 
 ALLOWED_HOSTS = []
